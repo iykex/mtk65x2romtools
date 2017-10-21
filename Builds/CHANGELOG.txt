@@ -1,2 +1,7 @@
+  0.2.0.0
+-Added custom chipset preset feature
+-Added example preset
+-Fixed bugs
+
   0.1.0.0
 -Initial release.
